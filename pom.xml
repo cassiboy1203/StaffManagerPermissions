@@ -38,6 +38,9 @@
                         <goals>
                             <goal>shade</goal>
                         </goals>
+                        <configuration>
+                            <outputFile>/home/cas/minecraft-servers/plugin-test/plugins/StaffManagerPermissions.jar</outputFile>
+                        </configuration>
                     </execution>
                 </executions>
             </plugin>
